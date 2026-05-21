@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Google Chrome",
+        "category": "Browsers",
+        "description": "Fast Secure Browser",
+        "version": "125.0",
+        "size": "110 MB",
+        "developer": "Google",
+        "icon": "icons/chrome.png",
+        "url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe"
+    },
+
+    {
+        "name": "Firefox",
+        "category": "Browsers",
+        "description": "Private Fast Browser",
+        "version": "126.0",
+        "size": "95 MB",
+        "developer": "Mozilla",
+        "icon": "icons/firefox.png",
+        "url": "https://download.mozilla.org/?product=firefox-latest&os=win64&lang=en-US"
+    },
+
+    {
+        "name": "Opera",
+        "category": "Browsers",
+        "description": "Gaming Web Browser",
+        "version": "108.0",
+        "size": "120 MB",
+        "developer": "Opera",
+        "icon": "icons/opera.png",
+        "url": "https://net.geo.opera.com/opera/stable/windows"
+    },
+
+    {
+        "name": "Discord",
+        "category": "Social Apps",
+        "description": "Gaming Chat Platform",
+        "version": "1.0",
+        "size": "85 MB",
+        "developer": "Discord Inc",
+        "icon": "icons/discord.png",
+        "url": "https://discord.com/api/download?platform=win"
+    },
+
+    {
+        "name": "Steam",
+        "category": "Games",
+        "description": "PC Games Platform",
+        "version": "2025",
+        "size": "2 MB",
+        "developer": "Valve",
+        "icon": "icons/steam.png",
+        "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe"
+    }
+]
